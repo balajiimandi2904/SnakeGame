@@ -22529,7 +22529,7 @@ Max Guaranteed Snake Length: 4
 Execution Time: 2811.21 ms
 --------------------------------------
 Graph 4595, order 8.
-Max Guaranteed Snake Length: 3
+Max Guaranteed Snake Length: 4
 Execution Time: 32.02 ms
 --------------------------------------
 Graph 4596, order 8.
